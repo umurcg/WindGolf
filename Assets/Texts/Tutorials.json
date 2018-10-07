@@ -1,0 +1,6 @@
+﻿{
+  "breif" : "Welcome to wind golf. The aim of golf obviously shoot the ball towards the hole. \n However in wind golf there are special wind fields that may help you reaching towards your aim. Each color of fields represents different types of winds. ",
+  "kick": "Use left click to change kick direction. \n Use right click to kick the ball. \n Use scroll wheel to change speed of kick.",
+  "revolveWind" : "You are in revolving wind. Wait right position to throw the ball towards your aim. Use left click to throw.",
+  "kickWind":  "You are in redirecting wind field. \n Use left click to change kick direction. \n Use right click to kick the ball. \n Use scroll wheel to change speed of kick."
+}
